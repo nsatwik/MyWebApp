@@ -26,8 +26,7 @@
 <body>
     <div class="center-box">
         <h1>Welcome to DevOps</h1>
-        <p>This is my Content</p>
+        <p>Latest</p>
     </div>
 </body>
 </html>
-i
