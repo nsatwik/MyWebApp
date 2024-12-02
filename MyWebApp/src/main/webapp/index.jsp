@@ -1,14 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-          <title>MyWebApp.com</title>
-          <meta content="text/html; charset=utf-8" />
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevOps.com</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center; /* Horizontally center */
+            align-items: center;    /* Vertically center */
+            background-color: #f0f0f0;
+        }
+
+        .center-box {
+            text-align: center;
+            padding: 20px;
+            background-color: #ffffff;
+            border: 1px solid #ccc;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
 <body>
-<h2> 
-	<h2>Hello world</h2>
-	<h3>Welcome to myapp.com</h3>
-	<h4>Happy Friday</h4>
-  
+    <div class="center-box">
+        <h1>Welcome to DevOps</h1>
+        <p>This is my Content</p>
+    </div>
 </body>
 </html>
+i
